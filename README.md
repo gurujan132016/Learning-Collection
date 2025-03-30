@@ -12,4 +12,14 @@ Learning Collection for Project and Interview
 * Typing Functions and Signatures  
 * Any, Void, Never, Null, Strict Null Checks  
 * OOP Practices In-Depth with Classes and Inheritance  
-* Set/Get, Protected, Private/Public/Static Members  
+* Set/Get, Protected, Private/Public/Static Members
+* Advanced Types, Mapped Types, keyof/typeof 
+* Generics, Type Guards, Signatures and Overloads 
+* Namespaces, Generics and Custom Modules 
+* Strict Type Checking, Advanced Compiler Options 
+* Queries and Lookup/Reverse Types 
+* Type Modifiers and 'this' Keyword 
+* Guarding Types with typeof/instanceof/literals 
+* Interfaces vs Classes vs Types 
+* Reverse Mappings, Inline and Numeric Enums 
+* DefinitelyTyped and Declaration Files/Modules 
