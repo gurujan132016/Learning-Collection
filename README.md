@@ -2,7 +2,7 @@
 Learning Collection for Project and Interview
 
 
-TypeScript Basics
+# TypeScript Basics
 * TypeScript Compiler In-Depth (tsc) and tsconfig  
 * ES6/7 and JavaScript versus TypeScript  
 * Primitive and Basic Types  
